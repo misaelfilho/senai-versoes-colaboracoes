@@ -23,3 +23,4 @@ ATIVIDADE PROPOSTA: OK!!!
 lembrei do comando, utilizado com muita frequência: git status
 
 
+lembrei do comando: git commit
