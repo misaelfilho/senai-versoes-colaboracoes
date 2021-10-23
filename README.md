@@ -19,3 +19,5 @@ ATIVIDADE PROPOSTA: OK!!!
 • Publique seu trabalho e faça alterações.
 
 • Crie um arquivo README.md no repositório remoto para simular uma alteração feita por outro programador, elencando os principais comandos utilizados para gerenciar o versionamento de seu código e publique no repositório remoto.
+
+lembrei do comando: git status
