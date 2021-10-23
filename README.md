@@ -1,6 +1,6 @@
 # senai-versoes-colaboracoes
 
-ATIVIDADE PROPOSTA: OK!
+ATIVIDADE PROPOSTA: OK!!!
 
 • Acesse o site https://git-scm.com/downd/win.
 
